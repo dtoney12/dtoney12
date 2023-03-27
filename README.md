@@ -1,9 +1,18 @@
 ### Hello World! :earth_americas:
 
-I'm Dale Toney from the USA.  I hail from LA :dark_sunglasses:, Indianapolis :corn:, and recently Chicago (:wind_face:!).  I am a recent computer science graduate :computer: (UMGC) and I am excited to utilize Spring Boot in my projects.  I have lots of app ideas and am always looking to collaborate.  Here is a little bit more about me :elevator:.
+I'm Dale Toney from the USA.  I hail from LA :dark_sunglasses:, Indianapolis :corn:, and recently Chicago :wind_face:!  I am a recent computer science graduate :man_student: and I am excited to utilize Spring Boot in my projects.  I have lots of app ideas :bulb: and am always looking to collaborate.  Here is a little bit more about me :eyes:.
 <ul>
   <li>
-  I 
+  I have a beautiful Filipino baby waiting for daddy to come back and change his diapers :baby:
+  </li>
+  <li>
+  I am a Lakers fan :basketball:
+  </li>
+  <li>
+  I am a game addict :video_game:
+  </li>
+  <li>
+  I have a beautiful Filipino baby waiting for daddy to come back and change his diapers :baby:
   </li>
 </ul>
 
