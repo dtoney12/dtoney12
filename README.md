@@ -1,10 +1,9 @@
 ### Hello World! :earth_americas:
 
-I'm Dale Toney from the USA.  I hail from LA :dark_sunglasses:, Indianapolis :corn:, and recently Chicago (:wind_face:!).  
-
+I'm Dale Toney from the USA.  I hail from LA :dark_sunglasses:, Indianapolis :corn:, and recently Chicago (:wind_face:!).  I am a recent computer science graduate :computer: (UMGC) and I am excited to utilize Spring Boot in my projects.  I have lots of app ideas and am always looking to collaborate.  Here is a little bit more about me :elevator:.
 <ul>
   <li>
-  ::marker
+  I 
   </li>
 </ul>
 
