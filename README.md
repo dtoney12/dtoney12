@@ -1,5 +1,13 @@
 ### Hello World! :earth_americas:
 
+I'm Dale Toney from the USA.  I hail from LA :dark_sunglasses:, Indianapolis :corn:, and recently Chicago (:wind_face:!).  
+
+<ul>
+  <li>
+  ::marker
+  </li>
+</ul>
+
 <!--
 **dtoney12/dtoney12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
