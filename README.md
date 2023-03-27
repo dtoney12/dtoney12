@@ -1,4 +1,4 @@
-### Hello World!
+### Hello World! :earth_americas:
 
 <!--
 **dtoney12/dtoney12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
