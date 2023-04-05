@@ -11,9 +11,6 @@ I'm Dale Toney from the USA.  I hail from LA :dark_sunglasses:, Indianapolis :co
   <li>
   I have a beautiful Filipino baby waiting for daddy to come back and change his diapers :baby:
   </li>
-  <li>
-   I am transitioning from a career as a network engineer - Check out my <a href="https://www.linkedin.com/in/dale-toney-66a820235/">Linkedin</a>
-  </li>
 </ul>
 
 <!--
